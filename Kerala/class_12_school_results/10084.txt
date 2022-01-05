@@ -1,0 +1,14 @@
+School Code : 10084
+Roll No Name Group Subject-1 Subject-2 Subject-3 Subject-4 Subject-5 Subject-6 Result
+7516100 VISHNU PRASAD K SCIENCE  ()  () PHYSICS B  (120)  ()  ()  () EHS
+7516101 MOHAMMAD HADIQUE SCIENCE  ()  () PHYSICS C+  (103)  ()  () MATHEMATICS-SCI C  (88 ) EHS
+7516102 SREE SHANKAR K SCIENCE  ()  () PHYSICS C+  (104) CHEMISTRY C+  (102)  () MATHEMATICS-SCI C  (87 ) EHS
+ 
+A+ : Total Score 200-180 , A : Total Score 179-160 ,
+B+ : Total Score 159-140 , B : Total Score 139-120 ,
+C+ : Total Score 119-100 with TE Score Greater Than or Equal To 30% of TE Maximum ,
+C : Total Score 99-80 with TE Score Greater Than or Equal To 30% of TE Maximum ,
+D+ : Total Score 79-60 with TE Score Greater Than or Equal To 30% of TE Maximum,
+D : Total Score 59-40 with TE Score lesser Than 30% of TE Maximum
+E : Total Score Below 40
+[For Music 30% of the maximim Score of PE&TE is Necessary for D+ Grade or Above]

@@ -1,0 +1,17 @@
+School Code : 06050
+Roll No Name Group Subject-1 Subject-2 Subject-3 Subject-4 Subject-5 Subject-6 Result
+7137548 JOE JOSEPH SIJO SCIENCE ENGLISH A  (165) HINDI A+  (185) PHYSICS B  (123) CHEMISTRY B+  (151) BIOLOGY B+  (152) MATHEMATICS-SCI C  (99 ) EHS
+7137549 JOSEKUTTY JIMMY SCIENCE ENGLISH A  (166) HINDI A  (173) PHYSICS C+  (112) CHEMISTRY B  (122) BIOLOGY B  (132) MATHEMATICS-SCI C  (93 ) EHS
+7137550 JOYAL GEORGE SCIENCE ENGLISH A+  (186) HINDI A+  (200) PHYSICS B  (138) CHEMISTRY A  (173) BIOLOGY A  (178) MATHEMATICS-SCI C+  (112) EHS
+7137551 DEVAGANGA BABU SCIENCE ENGLISH A  (167) HINDI A+  (200) PHYSICS B  (124) CHEMISTRY B+  (150) BIOLOGY A  (173) MATHEMATICS-SCI C  (88 ) EHS
+7137552 LUCY FRANCIS SCIENCE ENGLISH B+  (155) HINDI A  (175) PHYSICS B  (134) CHEMISTRY B+  (157) BIOLOGY B+  (148) MATHEMATICS-SCI C+  (105) EHS
+7137553 PRIYA JOSEPH SCIENCE ENGLISH B+  (154) HINDI A+  (196) PHYSICS B  (123) CHEMISTRY C+  (118) BIOLOGY B  (135) MATHEMATICS-SCI C  (94 ) EHS
+ 
+A+ : Total Score 200-180 , A : Total Score 179-160 ,
+B+ : Total Score 159-140 , B : Total Score 139-120 ,
+C+ : Total Score 119-100 with TE Score Greater Than or Equal To 30% of TE Maximum ,
+C : Total Score 99-80 with TE Score Greater Than or Equal To 30% of TE Maximum ,
+D+ : Total Score 79-60 with TE Score Greater Than or Equal To 30% of TE Maximum,
+D : Total Score 59-40 with TE Score lesser Than 30% of TE Maximum
+E : Total Score Below 40
+[For Music 30% of the maximim Score of PE&TE is Necessary for D+ Grade or Above]

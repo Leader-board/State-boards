@@ -1,0 +1,13 @@
+School Code : 10078
+Roll No Name Group Subject-1 Subject-2 Subject-3 Subject-4 Subject-5 Subject-6 Result
+7516083 MOHAMMED RAMSHIN SCIENCE  ()  () PHYSICS C  (97 ) CHEMISTRY D  (76 )  () MATHEMATICS-SCI C  (84 ) NHS
+7516084 SAYED MOHAMMED JAZEEL THANGAL SCIENCE  ()  () PHYSICS D  (108) CHEMISTRY D  (71 )  () MATHEMATICS-SCI D  (78 ) NHS
+ 
+A+ : Total Score 200-180 , A : Total Score 179-160 ,
+B+ : Total Score 159-140 , B : Total Score 139-120 ,
+C+ : Total Score 119-100 with TE Score Greater Than or Equal To 30% of TE Maximum ,
+C : Total Score 99-80 with TE Score Greater Than or Equal To 30% of TE Maximum ,
+D+ : Total Score 79-60 with TE Score Greater Than or Equal To 30% of TE Maximum,
+D : Total Score 59-40 with TE Score lesser Than 30% of TE Maximum
+E : Total Score Below 40
+[For Music 30% of the maximim Score of PE&TE is Necessary for D+ Grade or Above]

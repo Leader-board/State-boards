@@ -1,0 +1,16 @@
+School Code : 14072
+Roll No Name Group Subject-1 Subject-2 Subject-3 Subject-4 Subject-5 Subject-6 Result
+7439957 A A ABDUL RAHIMAN ADIL SCIENCE ENGLISH B+  (149) HINDI A  (171) PHYSICS C+  (119) CHEMISTRY C+  (109) BIOLOGY B+  (143) MATHEMATICS-SCI C  (92 ) EHS
+7439958 MOHAMMED SHAMMAZ SCIENCE ENGLISH C+  (115) HINDI A  (162) PHYSICS C  (95 ) CHEMISTRY C+  (104) BIOLOGY C+  (118) MATHEMATICS-SCI C  (83 ) EHS
+7439959 AYSHATH NOUFIYA U K SCIENCE ENGLISH B  (121) HINDI C+  (113) PHYSICS C  (89 ) CHEMISTRY C  (96 ) BIOLOGY C+  (117) MATHEMATICS-SCI C  (83 ) EHS
+7439960 RUZAIMA GULZAR SCIENCE ENGLISH A  (166) HINDI A+  (200) PHYSICS B  (133) CHEMISTRY B+  (156) BIOLOGY A+  (184) MATHEMATICS-SCI B  (134) EHS
+7439961 ZAINABA SCIENCE ENGLISH A+  (185) HINDI A+  (200) PHYSICS A  (177) CHEMISTRY A+  (186) BIOLOGY A+  (190) MATHEMATICS-SCI A+  (186) EHS
+ 
+A+ : Total Score 200-180 , A : Total Score 179-160 ,
+B+ : Total Score 159-140 , B : Total Score 139-120 ,
+C+ : Total Score 119-100 with TE Score Greater Than or Equal To 30% of TE Maximum ,
+C : Total Score 99-80 with TE Score Greater Than or Equal To 30% of TE Maximum ,
+D+ : Total Score 79-60 with TE Score Greater Than or Equal To 30% of TE Maximum,
+D : Total Score 59-40 with TE Score lesser Than 30% of TE Maximum
+E : Total Score Below 40
+[For Music 30% of the maximim Score of PE&TE is Necessary for D+ Grade or Above]
